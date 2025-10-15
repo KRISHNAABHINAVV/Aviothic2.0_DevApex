@@ -31,7 +31,7 @@ const InfoCard: React.FC<{ title: string; icon: React.ReactNode; children: React
 
 const Dashboard: React.FC<DashboardProps> = ({ onStart, isLoggedIn }) => {
   return (
-    <div className="flex flex-col items-center text-center space-y-16">
+    <div className="flex flex-col items-center text-center space-y-16" >
       <div className="bg-gradient-to-br from-white to-slate-50 p-12 md:p-20 rounded-2xl shadow-xl w-full max-w-5xl">
         <h2 className="text-5xl md:text-6xl font-extrabold text-slate-800 mb-6">Early Detection for a Brighter Future</h2>
         <p className="text-xl text-slate-600 max-w-3xl mx-auto mb-10">

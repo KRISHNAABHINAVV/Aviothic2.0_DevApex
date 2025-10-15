@@ -1,3 +1,7 @@
+Here’s your **NeuroCare README** revised with **placeholders for demo images** so you can add your actual screenshots later. I’ve kept the structure, flow, and poetic tone intact:
+
+---
+
 # 🧠 **NeuroCare – AI-Powered Cognitive Health Detection Using Gemini API**
 
 **NeuroCare** is an advanced **React + TypeScript (TSX)** web application designed to assist in the **early detection of cognitive decline** associated with **Alzheimer’s disease and dementia**.
@@ -24,14 +28,14 @@ Through intuitive gameplay and multimodal AI insight, NeuroCare becomes more tha
 
 ## 🧩 **Features**
 
-| Feature                           | Description                                                                   |
-| --------------------------------- | ----------------------------------------------------------------------------- |
-| 🎮 **Cognitive Mini-Games**       | Engaging brain challenges testing memory, logic, and focus.                   |
-| 🎥 **Facial Expression Analysis** | Gemini API interprets subtle micro-expressions to detect emotional changes.   |
-| 🗣️ **Speech & Text Analysis**    | Evaluates vocal tone, pacing, and linguistic coherence for cognitive markers. |
-| 📊 **Smart Cognitive Report**     | Converts complex AI data into intuitive insights and recommendations.         |
-| ⚛️ **Modern Tech Stack**          | Built on React + TypeScript (TSX) with clean, modular architecture.           |
-| ☁️ **Gemini AI Integration**      | Multimodal intelligence combining facial, speech, and behavioral signals.     |
+| Feature                           | Description                                                                   | Demo Image                                     |
+| --------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------- |
+| 🎮 **Cognitive Mini-Games**       | Engaging brain challenges testing memory, logic, and focus.                   | ![Mini-Game Demo](path-to-your-image)          |
+| 🎥 **Facial Expression Analysis** | Gemini API interprets subtle micro-expressions to detect emotional changes.   | ![Facial Analysis Demo](path-to-your-image)    |
+| 🗣️ **Speech & Text Analysis**    | Evaluates vocal tone, pacing, and linguistic coherence for cognitive markers. | ![Speech Analysis Demo](path-to-your-image)    |
+| 📊 **Smart Cognitive Report**     | Converts complex AI data into intuitive insights and recommendations.         | ![Report Demo](path-to-your-image)             |
+| ⚛️ **Modern Tech Stack**          | Built on React + TypeScript (TSX) with clean, modular architecture.           | ![Tech Stack Demo](path-to-your-image)         |
+| ☁️ **Gemini AI Integration**      | Multimodal intelligence combining facial, speech, and behavioral signals.     | ![Gemini Integration Demo](path-to-your-image) |
 
 ---
 
@@ -67,6 +71,8 @@ Built with **React + TypeScript**, it enables users to:
 * 🎥 *Media Interface:* WebRTC & Web Speech APIs for camera/mic input.
 * 📈 *Visualization:* Dynamic charts, emotion meters, and progress tracking.
 
+![Frontend Demo](path-to-your-image)
+
 ---
 
 ### 🧠 **2. AI Processing Layer (Gemini API Integration)**
@@ -81,6 +87,8 @@ Here, the **Gemini API** performs deep multimodal analysis across three cognitiv
 **Output:**
 A structured set of cognitive metrics — probabilistic indicators for mental agility, recall precision, and emotional balance.
 
+![AI Layer Demo](path-to-your-image)
+
 ---
 
 ### ⚙️ **3. Cognitive Insight Engine (Backend Logic)**
@@ -91,6 +99,8 @@ It refines raw Gemini output into **contextualized reports** that emphasize clar
 * Normalizes AI data for longitudinal tracking.
 * Detects early trends of cognitive decline.
 * Generates an **interpretable Cognitive Health Report** with risk visualizations and recommendations.
+
+![Cognitive Engine Demo](path-to-your-image)
 
 ---
 
@@ -103,6 +113,8 @@ All captured data is processed **locally or through encrypted channels**, ensuri
 * 🧩 Optional cloud storage with user consent.
 * 🛡️ Secure anonymization before any AI analysis.
 
+![Security Layer Demo](path-to-your-image)
+
 ---
 
 ### 📊 **5. Insights & Reporting Layer**
@@ -113,6 +125,8 @@ Users receive a **visual cognitive profile** — an evolving map of focus, memor
 * Personalized trend charts over time.
 * AI-generated summaries of potential cognitive changes.
 * Recommendations for maintaining mental agility.
+
+![Reporting Demo](path-to-your-image)
 
 ---
 
@@ -131,4 +145,10 @@ Users receive a **visual cognitive profile** — an evolving map of focus, memor
 It transforms pixels and algorithms into empathy, science into intuition, and technology into early awareness.
 With Gemini’s intelligence and React’s responsiveness, **the future of cognitive care** begins not in a clinic — but in your browser.
 
+![Final Demo](path-to-your-image)
+
 ---
+
+I can also **generate a fully styled visual demo grid** with placeholders for all these screenshots if you want it to be more like a real portfolio page inside your README. It would look very professional and interactive.
+
+Do you want me to do that?
