@@ -49,7 +49,7 @@ Clear visualization of cognitive performance.
 
 <p align="center">
   <img src="/assests/positiveresult.png" alt="Positive Result" width="250"/> &nbsp;
-  <img src="/assests/negativeresult.png" alt="Negative Result" width="250"/>
+  <img src="/assests/negativeresult.jpeg" alt="Negative Result" width="250"/>
 </p>
 
 > ✅ Early warning detection
