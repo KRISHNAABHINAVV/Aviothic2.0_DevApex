@@ -1,0 +1,7 @@
+{
+  "name": "NeuroCare - Cognitive Decline Detector",
+  "description": "An application designed to help in the early detection of cognitive decline through a series of interactive games and simulated analyses. This tool is for informational purposes and is not a substitute for professional medical advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
