@@ -4,8 +4,24 @@
   <img src="/assests/dashboard.png" alt="Dashboard Preview" width="450"/> 
 </div>
 
-**NeuroCare** is a **React + TypeScript web application** built to detect **early cognitive decline** through interactive games and AI-driven facial analysis.
-Using the **Google Gemini API**, it transforms everyday interaction into meaningful cognitive insights.
+---
+
+## 🚀 **Overview**
+
+Every year, millions face the silent erosion of memory and identity through **Alzheimer’s and dementia** — often without early detection.
+**NeuroCare** rises as a digital sentinel: a tool that transforms **cognitive testing** into an **interactive experience**, helping users recognize subtle shifts in attention, memory, and emotion before it’s too late.
+
+Through intuitive gameplay and multimodal AI insight, NeuroCare becomes more than an app — it’s an **early warning system for the mind**.
+
+**Core Capabilities:**
+
+* 🧩 Play **cognitive mini-games** testing logic, focus, and recall.
+* 🎥 Capture & analyze **facial expressions** in real time.
+* 🗣️ Evaluate **speech tone, coherence, and emotional stability**.
+* 📊 Generate **personalized cognitive insight reports**.
+* ⚛️ Experience the future through a **modern React + Gemini API** synergy.
+**NeuroCare** is a **React + TypeScript web app** designed for **early detection of cognitive decline** like Alzheimer’s and dementia.
+It combines **interactive mini-games**, **AI-driven facial analysis**, and **smart result reports** using **Google Gemini API**.
 
 ---
 
