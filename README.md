@@ -1,7 +1,7 @@
 # 🧠 **NeuroCare – AI-Powered Cognitive Health Detection**
 
 <div align="center">
-  <img src="/assests/dashboard.png" alt="Memory Game" width="400"/> 
+  <img src="/assests/dashboard.png" alt="Memory Game" width="450"/> 
 </div>
 
 **NeuroCare** is a **React + TypeScript web app** designed for **early detection of cognitive decline** like Alzheimer’s and dementia.
@@ -26,9 +26,9 @@ Millions silently face memory and cognitive decline. NeuroCare empowers users to
 Challenge memory, pattern recognition, and reaction speed.
 
 <p align="center">
-  <img src="/assests/memorygame.png" alt="Memory Game" width="180"/> &nbsp;
-  <img src="/assests/patterngame.png" alt="Pattern Game" width="180"/> &nbsp;
-  <img src="/assests/reactiongame.png" alt="Reaction Game" width="180"/>
+  <img src="/assests/memorygame.png" alt="Memory Game" width="300"/> &nbsp;
+  <img src="/assests/patterngame.png" alt="Pattern Game" width="300"/> &nbsp;
+  <img src="/assests/reactiongame.png" alt="Reaction Game" width="300"/>
 </p>
 
 ---
