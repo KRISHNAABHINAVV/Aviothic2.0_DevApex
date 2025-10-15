@@ -1,7 +1,3 @@
-Here’s your **NeuroCare README** revised with **placeholders for demo images** so you can add your actual screenshots later. I’ve kept the structure, flow, and poetic tone intact:
-
----
-
 # 🧠 **NeuroCare – AI-Powered Cognitive Health Detection Using Gemini API**
 
 **NeuroCare** is an advanced **React + TypeScript (TSX)** web application designed to assist in the **early detection of cognitive decline** associated with **Alzheimer’s disease and dementia**.
@@ -148,7 +144,3 @@ With Gemini’s intelligence and React’s responsiveness, **the future of cogni
 ![Final Demo](path-to-your-image)
 
 ---
-
-I can also **generate a fully styled visual demo grid** with placeholders for all these screenshots if you want it to be more like a real portfolio page inside your README. It would look very professional and interactive.
-
-Do you want me to do that?
