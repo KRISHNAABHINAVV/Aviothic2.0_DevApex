@@ -15,7 +15,7 @@ Through intuitive gameplay and multimodal AI insight, NeuroCare becomes more tha
 **Core Capabilities:**
 
 * 🧩 Play **cognitive mini-games** testing logic, focus, and recall.
-* 🎥 Capture and analyze **facial expressions** in real time.
+* 🎥 Capture & analyze **facial expressions** in real time.
 * 🗣️ Evaluate **speech tone, coherence, and emotional stability**.
 * 📊 Generate **personalized cognitive insight reports**.
 * ⚛️ Experience the future through a **modern React + Gemini API** synergy.
